@@ -97,7 +97,7 @@ class _MyAppState extends State<MyApp> {
                       mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                       children: [
                         Text(
-                          "Team A",
+                          "Team B",
                           style: TextStyle(fontSize: 28),
                         ),
                         Padding(
