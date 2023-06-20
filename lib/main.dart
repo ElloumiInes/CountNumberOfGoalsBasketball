@@ -102,7 +102,7 @@ class _MyAppState extends State<MyApp> {
                         ),
                         Padding(
                           padding: const EdgeInsets.only(bottom: 0.2),
-                          child: Text("$nbPointTeamB",
+                          child: Text("$nbPointTeamb",
                               style: TextStyle(fontSize: 120)),
                         ),
                         Container(
